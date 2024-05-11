@@ -1,3 +1,5 @@
+#Description: This program reads a file, removes comments, removes "of an expression", and removes extra spaces. (Works perfectly no issues)
+
 # Open the original file
 with open("finalv1.txt", "r") as file:
     lines = file.readlines()
