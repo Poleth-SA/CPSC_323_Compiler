@@ -1,0 +1,19 @@
+program s2024;
+//This program computes and prints the value
+of an expression//
+var
+// declare variables //
+p1 , q2s , r, pp : integer ;
+begin
+p1 = 3 ;
+pp= 23 ;
+q2s = 4 ;
+r = 5 ;
+p1 = 2*p1+ r*( q2s + pp);
+write ( p1 ); // display p1 //
+
+//compute the value of this expression //
+pp = p1 * ( q2s + 2 * rc) ;
+write ( “value=”, pp ) ; //print the value of pp //
+
+ end.
