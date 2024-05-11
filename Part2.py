@@ -1,3 +1,6 @@
+#This code isn't finished a product, Had bug that weren't fixed.
+
+
 from pTable import p_table
 from part3 import Translator
 
