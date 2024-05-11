@@ -1,3 +1,5 @@
+#Description: This program converts the final24.txt file to a Python file named output.py
+
 class Translator:
     def __init__(self):
         self.code = []
