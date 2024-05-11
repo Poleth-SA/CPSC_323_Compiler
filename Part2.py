@@ -1,4 +1,4 @@
-#This code isn't finished a product, Had bug that weren't fixed.
+# Description: A simple compiler
 
 
 from pTable import p_table
